@@ -1,4 +1,7 @@
-Thanks for downloading this theme!
+
+## 📌 Use Case Diagram
+
+![Use Case Diagram](usecase.png)
 
 ## Other Useful Links
 
