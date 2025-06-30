@@ -1,7 +1,4 @@
 
-## 📌 Use Case Diagram
-
-![Use Case Diagram](usecasee.png)
 
 ## Other Useful Links
 
